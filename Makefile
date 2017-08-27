@@ -4,6 +4,6 @@ build:
 	docker-compose build
 
 run:
-	docker-compose run rute_tute /bin/bash
+	docker-compose run rute_tute
 
 

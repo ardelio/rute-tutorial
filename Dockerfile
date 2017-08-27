@@ -13,3 +13,4 @@ RUN useradd rute -m -s /bin/bash \
 USER rute
 WORKDIR /home/rute
 
+CMD [ "/bin/bash" ]
