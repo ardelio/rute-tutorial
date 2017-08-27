@@ -1,0 +1,7 @@
+---
+version: '2'
+services:
+  rute_tute:
+    build:
+      context: .
+    image: rute_tutorial:latest
